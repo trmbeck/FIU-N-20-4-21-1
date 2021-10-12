@@ -1,0 +1,13 @@
+code.visualstudio.com
+www.git-scm.com
+
+Klonen (herunterladen des Quellcodes)
+---------------------------------------
+git clone <Angabe des git-repositorys>
+git clone https://github.com/trmbeck/FIU-N-20-4-21-1.git
+
+
+Ordner erstellen:
+------------------------
+mkdir <Name des Ordners>
+
