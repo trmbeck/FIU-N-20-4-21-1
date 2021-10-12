@@ -7,9 +7,28 @@
     <title>Kontakt</title>
 </head>
 <body>
-    Kontaktdaten:
-    bla
-    fasel
-    <script src="default.js"></script> <!--external Script-->
+    Kontaktdaten: <br>
+
+<table>
+    <tr>
+        <td>Name: </td>
+        <td><input type="text" name="Name" id="txbName"></td>
+    </tr>
+    <tr>
+        <td>E-Mail: </td>
+        <td><input type="email" name="email" id="txbEmail"></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td><input type="button" value="Senden" id="btn"
+            onmouseover="this.style.background='red';this.style.color='yellow'"
+            onmouseout="changeColorOnMouseOut()"
+            onclick="alert('Hallo')"></td>
+    </tr>
+    
+</table>
+    
+    <!--<script src="default.js"></script> external Script-->
+    <script src="events.js"></script>
 </body>
 </html>

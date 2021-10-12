@@ -58,3 +58,13 @@ console.log(myArray2);
 
 console.log(myArray2.shift());
 console.log(myArray2);
+
+// einfache und doppelte Anführungszeichen
+let einfach = 'Hallo JavaScript';
+let doppelt = "Hallo JavaScript";
+
+einfach = 'Hallo "JavaScript"';
+doppelt = "Hallo 'JavaScript'";
+
+einfach = 'Hallo \'tolles\' "JavaScript"';
+doppelt = "Hallo 'tolles' \"JavaScript\"";
