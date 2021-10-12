@@ -11,3 +11,6 @@ Ordner erstellen:
 ------------------------
 mkdir <Name des Ordners>
 
+Neuerungen laden (pull)
+-----------------------
+git pull
