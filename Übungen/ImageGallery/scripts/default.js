@@ -46,4 +46,3 @@ function changeImageOnClick2(evt){
 //     let mainimage = document.getElementById('mainimage');
 //     mainimage.src = "Images/Image5.png";
 // }
-
