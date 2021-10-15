@@ -1,0 +1,7 @@
+{
+    "name":"SimpleWebserver",
+    "version":"0.0.1",
+    "description": "http modul webserver",
+    "main": "webserver.js",
+    "author": {"name": "Michael","email": "m@l.com"}
+}
